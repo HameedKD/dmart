@@ -1,0 +1,16 @@
+.watch-future h1{
+    font-weight: bold;   
+}
+@media(max-width:768px)
+{
+    .watch-future .revers{
+        width: 100%;
+    }
+    .watch-future h1{
+        text-align: center;
+    }
+    .watch-future .revers .watch-para{
+        position: relative;
+        top: 20px;
+    }
+}

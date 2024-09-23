@@ -1,0 +1,48 @@
+[
+    {
+        "image" : "/laptop-image/1.png",
+         "title" : "HP 15.6 Ryzen 8GB/256GB Laptop-Rose Gold.",
+         "price" : "Price : ₹70,000"
+    },
+    {
+        "image" : "/laptop-image/2.png",
+        "title" : "asus laptops: 10 Best ASUS Laptops that Deliver.",
+        "price" : "Price : ₹80,000"
+    },
+    {
+        "image" : "/laptop-image/3.png",
+        "title" : "Apple Macbook 12 Inch at Rs 98512 | Apple Laptops .",
+        "price" : "Price : ₹134900.00"
+    },
+    {
+       "image" : "/laptop-image/4.png",
+        "title" : "Lenovo Laptop, Memory Size: 4 Gb, Screen Size: 13.",
+        "price" : "Price : ₹85,000"
+    },
+    {
+        "image" : "/laptop-image/5.png",
+        "title" : "Dell Inspiron 15.6 Inch Notebook Laptop Intel Inch Notebook ",
+        "price" : "Price : ₹60,000"
+    },
+    {
+        "image" : "/laptop-image/6.png",
+         "title" : "Vivo Laptops at Rs 25000 | Nizampet | Hyderabad .",
+         "price" : "Price : ₹69,000"
+    },
+    {
+        "image" : "/laptop-image/7.png",
+         "title" : "Samsung Galaxy Book3 Intel Core I7 13th 16 Gb/512 Gb.",
+         "price" : "Price : ₹75,000"
+    },
+    {
+        "image" : "/laptop-image/8.png",
+        "title" : "Xiaomi reportedly exiting laptops business in India.",
+        "price" : "Price :  ₹64,000"
+    },
+    {
+        "image" : "/laptop-image/9.png",
+        "title" : "Toshiba Satellite T135 Win 7 CULV Notebook Review .",
+        "price" : "Price : ₹55,000"
+    }
+
+]

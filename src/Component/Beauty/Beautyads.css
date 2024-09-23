@@ -1,0 +1,41 @@
+.beauty-box{
+    width: 100%;
+    height: 635px;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.beauty-box .beauty-shadow{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    top: 0;
+    left: 0;
+}
+.beauty-box h3{
+    transition: 2s ease-in;
+    animation: fadeInDown;   
+    animation-duration: 2s;
+}
+.beauty-box h1{
+    transition: 2.5s ease-in;
+    animation: zoomIn;   
+    animation-duration: 2.5s;
+}
+.beauty-box button{
+    transition: 3s ease-in;
+    animation: fadeInUp;   
+    animation-duration: 3s;   
+}
+@media(max-width:768px)
+{
+    .beauty-box{
+      height: 200px !important;
+    }
+    .beauty-box h1{
+        font-size: 25px !important;
+
+    }
+}

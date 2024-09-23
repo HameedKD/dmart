@@ -1,0 +1,40 @@
+.laptop-ads-image{
+    width: 100%;
+    height: 635px !important;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+} 
+.laptop-ads-image .box-shadow{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.laptop-ads-image .lap-top{
+    transition: 2s ease-in;
+    animation: zoomIn;   
+    animation-duration: 2s;
+}
+.laptop-ads-image h1{
+    transition: 2.5s ease-in;
+    animation: lightSpeedInLeft;   
+    animation-duration: 2.5s;
+}
+.laptop-ads-image button{
+    transition: 3s ease-in;
+    animation: fadeInUp;   
+    animation-duration: 3s;   
+}
+@media(max-width:768px)
+{
+    .laptop-ads-image{
+        height: 200px !important;
+    }
+    .laptop-ads-image h1{
+       font-size: 25px !important;
+    } 
+}

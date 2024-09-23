@@ -1,0 +1,48 @@
+[
+    {
+        "image" : "/watch-image/1.png",
+          "title" : "Buy Apple Watch Series 9 Aluminium Case with Sport Band .",
+          "price" : "Price : ₹60,000"
+    },
+    {
+        "image" : "/watch-image/2.png",
+         "title" : "Rolex Cosmograph Daytona - Triumph of endurance ",
+         "price" : "Price : ₹2,70,000"
+    },
+    
+    {
+        "image" : "/watch-image/3.png",
+         "title" : "Noise Colorfit Icon 2 1.8'' Display with Bluetooth Calling ",
+         "price" : "Price : ₹9,000" 
+    },
+    {
+        "image" : "/watch-image/4-4.png",
+        "title" : "Rado Watches Captain Cook Automatic blue Dial Men's Watch ",
+        "price" : "Price : ₹9,000" 
+    },
+    {
+        "image" : "/watch-image/w-5.png",
+        "title" : "Skeleton Multifunction Chronograph Calendar Men's Watch . ",
+        "price" : "Price : ₹6,000" 
+    },
+    {
+        "image" : "/watch-image/w-6.png",
+        "title" : " Bugatti Chiron Tourbillon Titanium Limited 126 Pcs . ",
+        "price" : "Price : ₹4,01,00,000" 
+    },
+    {
+        "image" : "/watch-image/w-7.png",
+        "title" : " Samsung Galaxy Watch6 LTE (44mm, Graphite with Android . ",
+        "price" : "Price : ₹25,999" 
+    },
+    {
+        "image" : "/watch-image/w-8.png",
+        "title" : " boAt Wave Lite Smartwatch with HD Display . ",
+        "price" : "Price : ₹999" 
+    },
+    {
+        "image" : "/watch-image/w-9.png",
+        "title" : " Casio Men's A158WA-1DF Digital Watch Casio Men's ",
+        "price" : "Price : ₹1,650" 
+    }
+]

@@ -1,0 +1,10 @@
+.cart-header{
+    width: 100%;
+    height: 60px;
+    background-color: #a8a8aa; 
+}
+@media(max-width:768px){
+    .cart-header{
+        background-color: #fafafc !important;
+    }
+}

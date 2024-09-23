@@ -1,0 +1,84 @@
+.footer-box{
+    width: 100%;
+    height: auto !important;
+    background-color: #0F172A;
+}
+.footer-box h1{
+    position: relative;
+    top: 15px;
+    font-size: 50px;
+}
+.footer-box .icon-box{
+    width: 12%;
+    height: 40px;
+    float: left;
+    display: flex;
+    background-color: #0F172A;
+    color: slateblue;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-right: 15px !important;
+}
+.footer-box li{
+    list-style: none !important;
+    color: white;
+}
+.footer-box a{
+    text-decoration: none !important;
+}
+.footer-box a:hover li{
+    color: #0A58CA;
+}
+.cart-btn{
+    background-color: transparent !important;
+    border: none !important;
+ }
+ .cart-btn .carticon{
+     font-size: 30px !important;
+     color: white !important;
+     position: relative;
+     right: 10px !important;
+}
+.cart-btn .numb{
+    position: relative;
+    top: -20px;
+    font-weight: bold;
+    right: 10px !important;
+}
+.footer-box .designby{
+    transition: 2s ease-in;
+    animation: zoomIn;   
+    animation-duration: 2s;
+}
+@media(max-width:768px)
+{
+    .footer-box{
+      height: auto !important;
+      position: relative;
+      top: 1px !important;
+    }
+    .footer-box .icon-box{
+        font-size: 30px !important;
+        background-color: #0F172A;
+        color: slateblue;
+    }
+    .footer-box h1{
+        font-size: 25px !important;
+
+    }
+    .footer-box .rever{
+        width: 100%;
+        padding: 0 !important;
+        margin: 0 !important;
+        position: relative;
+        top: 15px !important;
+    }
+    .footer-box .rever .useful{
+        position: relative; 
+    }
+    .footer-box .Suppliers{
+        position: relative;
+        top: 30px !important;
+    }
+}

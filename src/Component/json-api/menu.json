@@ -1,0 +1,26 @@
+[
+    {
+        "lable" : "Home",
+        "link" : "/"
+    },
+    {
+        "lable" : "Laptop",
+        "link" : "/laptop"
+    },
+    {
+        "lable" : "Smartwatch",
+        "link" : "/smartwatch"
+    },
+    {
+        "lable" : "Women Clothes",
+        "link" : "/women"
+    },
+    {
+        "lable" : "Kids Toy",
+        "link" : "/kid"
+    },
+    {
+        "lable" : "Beauty & Care",
+        "link" : "/beauty"
+    }
+]

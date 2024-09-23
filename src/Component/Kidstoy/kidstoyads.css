@@ -1,0 +1,41 @@
+.kids-box{
+    width: 100%;
+    height: 635px;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.kids-box .kids-shadow{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+}
+.kids-box h3{
+    transition: 2s ease-in;
+    animation: rollIn;   
+    animation-duration: 2s;
+}
+.kids-box h1{
+    transition: 2.5s ease-in;
+    animation:zoomIn;   
+    animation-duration: 2.5s;
+}
+.kids-box button{
+    transition: 3s ease-in;
+    animation: fadeInUp;   
+    animation-duration: 3s; 
+}
+@media(max-width:768px)
+{
+    .kids-box{
+      height: 200px !important;
+    }
+    .kids-box h1{
+        font-size: 25px !important;
+
+    }
+}

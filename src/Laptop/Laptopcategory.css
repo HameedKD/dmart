@@ -1,0 +1,14 @@
+
+.laptop-shadow .img-hover:hover{
+    box-shadow: 0px 4px 8px 0px #545454;
+}
+@media(max-width:768px)
+{
+    .laptop-shadow{
+        width: 100% !important;
+        margin-bottom: 15px !important;
+    }
+    .lattop h1{
+        text-align: center;
+    }
+}

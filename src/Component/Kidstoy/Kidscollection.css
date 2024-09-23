@@ -1,0 +1,16 @@
+.kids-collection h1{
+    font-weight: bold;   
+}
+@media(max-width:768px)
+{
+    .kids-collection .revers{
+        width: 100%;
+    }
+    .kids-collection h1{
+        text-align: center;
+    }
+    .kids-collection .revers .toy-para{
+        position: relative;
+        top: 20px;
+    }
+}

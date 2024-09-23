@@ -1,0 +1,41 @@
+.smart-watch{
+    width: 100%;
+    height: 635px;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.smart-watch .watch-box{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+}
+.smart-watch h3{
+    transition: 2s ease-in;
+    animation: fadeInBottomLeft;   
+    animation-duration: 2s;
+}
+.smart-watch h1{
+    transition: 2.5s ease-in;
+    animation: fadeInRightBig;   
+    animation-duration: 2.5s;
+}
+.smart-watch button{
+    transition: 3s ease-in;
+    animation: fadeInUp;   
+    animation-duration: 3s; 
+}
+@media(max-width:768px)
+{
+    .smart-watch{
+      height: 200px !important;
+    }
+    .smart-watch h1{
+        font-size: 25px !important;
+
+    }
+}

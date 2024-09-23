@@ -1,0 +1,20 @@
+.clothes-header h1{
+    font-weight: bold;   
+}
+
+@media(max-width:768px)
+{
+    .clothes-header .revers{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+    .clothes-header h1{
+        text-align: center;
+        
+    }
+    .clothes-header .revers .women-clothes{
+        position: relative;
+        top: 20px;
+    }
+}
